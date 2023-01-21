@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Unity</folder>
+	<filename>Unity.345994d8-97f4-11ed-ae76-f48c50bc308f.jpg</filename>
+	<path>C:\Users\hp\Documents\Tensorflow\TFODCourse\Tensorflow\workspace\images\collectedimages\Unity\Unity.345994d8-97f4-11ed-ae76-f48c50bc308f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>150</ymin>
+			<xmax>352</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Happy</folder>
+	<filename>Happy.24a119c6-940f-11ed-aa46-f48c50bc308f.jpg</filename>
+	<path>C:\Users\hp\Documents\Tensorflow\TFODCourse\Tensorflow\workspace\images\collectedimages\Happy\Happy.24a119c6-940f-11ed-aa46-f48c50bc308f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>102</ymin>
+			<xmax>332</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
